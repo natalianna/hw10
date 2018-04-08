@@ -13,31 +13,34 @@ Include a discussion how it will be interactive or responsive to the environment
 ## Component Parts
 
 I will be buying:
-1 Maxim Integrated MX4466 amplifier breakout
-1 Adafruit NeoPixel Digital RGB LED Strip - White 60 LED - WHITE
-1 Arduino Nano or Uno
-1 Micro USB cable
-1 AA battery pack
-1 Hookup wire
+1 Maxim Integrated MX4466 amplifier breakout,
+1 Adafruit NeoPixel Digital RGB LED Strip - White 60 LED - WHITE,
+1 Arduino Nano or Uno,
+1 Micro USB cable,
+1 AA battery pack,
+1 Hookup wire,
 
-There is a single pin for input and a single pin for output. 
-Include what types of inputs/outputs/data it will use, and a block diagram showing how all those pieces are connected.
-block
+
+![Smart plug block diagram](https://github.com/natalianna/hw10/blob/master/blockdiagramPE.png)
+
 
 ## Challenges
 
-A brief discussion of what you anticipate will be the hardest and most time-consuming parts.
+My understanding of Arduino itself is limited and my knowledge of the materials I'm going to purchase is minimal. I expect I will need some time to learn about how everything works before I'm ready to create the final product. I would also like to develop my knowledge of drawing these systems which could help me greatly in understanding the material. 
 
 ## Timeline
 
 What parts of the project do you anticipate you will complete in each of the next 5 weeks? Your goal is to solve the scary problems as quickly as possible! 
 
 - Week 1: Write proposal
-- Week 2: 
-- Week 3:
-- Week 4:
+- Week 2: Order materials
+- Week 3: Become familiar with the materials and begin working on final product
+- Week 4: Bring in first draft of final product and tweek until it works as desired
 - Week 5: Present!
 
 ## References and link
 
-Tutorials, comments, videos, magazine articles - Anything you found that helps you understand your project 
+https://maker.pro/projects/arduino/make-sound-activated-neopixel-rave-goggles-with-arduino
+https://www.youtube.com/watch?v=9hJyyUTflXA
+https://store.arduino.cc/usa/arduino-nano
+https://www.adafruit.com/product/2832
