@@ -17,7 +17,7 @@ I will be buying:
 1 Adafruit NeoPixel Digital RGB LED Strip - White 60 LED - WHITE,
 1 Arduino Nano or Uno,
 1 Micro USB cable,
-1 AA battery pack,
+1 Portable Battery,
 1 Hookup wire,
 
 
@@ -48,3 +48,6 @@ https://maker.pro/projects/arduino/make-sound-activated-neopixel-rave-goggles-wi
 https://www.youtube.com/watch?v=9hJyyUTflXA
 https://store.arduino.cc/usa/arduino-nano
 https://www.adafruit.com/product/2832
+https://learn.adafruit.com/led-trampoline?view=all 
+http://www.brentmorelabs.com/2015/09/synesthesia/
+https://learn.adafruit.com/adafruit-neopixel-uberguide/basic-connections
