@@ -28,6 +28,10 @@ I will be buying:
 
 My understanding of Arduino itself is limited and my knowledge of the materials I'm going to purchase is minimal. I expect I will need some time to learn about how everything works before I'm ready to create the final product. I would also like to develop my knowledge of drawing these systems which could help me greatly in understanding the material. 
 
+I think the hardest part of this project is going to be putting it together, putting all the pieces in the correct places. I also believe that I will need some help with the code, but if I can find the correct resources online, I should be able to reverse engineer and create what I want to create. 
+
+I'm also hoping that I will be able to design the LED accessory in a way where the hardware will not be bulky. 
+
 ## Timeline
 
 What parts of the project do you anticipate you will complete in each of the next 5 weeks? Your goal is to solve the scary problems as quickly as possible! 
